@@ -1,4 +1,4 @@
-# Proyecto de Análisis de Competitividad Turística de Buenos Aires
+# Análisis de Competitividad Turística de Buenos Aires
 
 <div align="center">
   <img src="https://travel-guide.daytours4u.com/es/wp-content/uploads/sites/3/2020/04/5.png.webp" alt="Imagen turística" />
