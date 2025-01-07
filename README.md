@@ -30,3 +30,8 @@ El objetivo de este proyecto es realizar un análisis comparativo entre los índ
 **Pandas**: para la lectura y tratamiento de los datos.  
 **Matplotlib/Seaborn**: para la visualización gráfica de los resultados.  
 **Jupyter Notebooks**: para el desarrollo interactivo.
+
+# Fuentes
+Buenos Aires. (2024). *Cifras clave de la Ciudad de Buenos Aires: Tercer trimestre de 2024. Dirección General de Estadística y Censos*. Recuperado de https://www.estadisticaciudad.gob.ar/eyc/?p=156286
+
+Gobierno de la Ciudad de Buenos Aires. (n.d.). *Competitividad turística: Índice de Competitividad Real Turística Multilateral y Bilateral*. Recuperado de https://data.buenosaires.gob.ar/dataset/competitividad-turistica/resource/82253ef6-b7f9-4399-a473-28f62e89781d
